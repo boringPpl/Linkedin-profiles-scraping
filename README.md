@@ -4,6 +4,7 @@ Automatically scrape the web data of people profiles on Linkedin based on a spec
 
 ### Tutorial: 
 English: https://youtu.be/zkfLAY2OrtI
+
 Vietnamese: https://youtu.be/hfnBswCe4QE
 
 ### Problem: 
