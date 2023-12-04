@@ -16,8 +16,6 @@ To efficiently collect and cluster Linkedin profiles data, this scrip helps auto
 
 ---
 ### Sponsor
-![Logo with tagline](https://github.com/boringPpl/Linkedin-profiles-scraping/assets/44963656/74346dc1-a788-413d-a70f-95a1a70ecd67)
-
-<img src="https://github.com/boringPpl/Linkedin-profiles-scraping/assets/44963656/74346dc1-a788-413d-a70f-95a1a70ecd67" width="128"/>
+<img src="https://github.com/boringPpl/Linkedin-profiles-scraping/assets/44963656/74346dc1-a788-413d-a70f-95a1a70ecd67" width="400"/>
 
 
